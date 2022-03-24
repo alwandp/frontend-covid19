@@ -1,0 +1,19 @@
+{
+  "name": "frontend-covid19",
+  "version": "1.0.0",
+  "description": "FrontEnd Covid-19 with Covid-19 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwandp/frontend-covid19.git"
+  },
+  "author": "Alwan Dwi Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwandp/frontend-covid19/issues"
+  },
+  "homepage": "https://github.com/alwandp/frontend-covid19#readme"
+}

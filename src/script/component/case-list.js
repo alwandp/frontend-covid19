@@ -19,7 +19,6 @@ class CaseList extends HTMLElement {
   render() {
     this.innerHTML = "";
     this._cases.forEach(cas => {
-      console.log(cas);
       const caseElement = document.createElement("case-item");
       caseElement.cas = cas;
       this.appendChild(caseElement);

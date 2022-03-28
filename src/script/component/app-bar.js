@@ -6,9 +6,9 @@ class AppBar extends HTMLElement {
 
   render(){
     this.innerHTML = `
-    <div class="container d-flex justify-content-center py-3 mb-3 border-bottom">
-      <h4 class="fw-bold">Covid-19 Statistic</h4>
-    </div>`;
+      <a href="/" class="d-flex text-dark text-decoration-none">
+        <span class="fs-4 h1">Corona Virus Statistic</span>
+      </a>`;
   }
 }
 

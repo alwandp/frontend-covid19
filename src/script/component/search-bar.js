@@ -18,7 +18,7 @@ class SearchBar extends HTMLElement {
     <div class="container">
       <div class="row justify-content-end">
         <div class="col-md-4">
-          <h5 class="mt-5">Search by Country</h5>
+          <h5 class="mt-5">Search country</h5>
           <div class="input-group mb-5">
             <input type="text" class="form-control" id="searchElement" placeholder="Search..">
             <button class="btn btn-outline-primary" type="submit" id="searchButton"><i class="fas fa-search"></i></button>
